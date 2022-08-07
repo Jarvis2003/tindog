@@ -1,2 +1,1 @@
-# tindog
-A mockup website of tinder
+TinDog Starting Files
